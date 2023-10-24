@@ -12,7 +12,8 @@
         "--socket=wayland",
         "--socket=fallback-x11",
         "--talk-name=org.kde.kglobalaccel",
-        "--talk-name=org.freedesktop.Flatpak"
+        "--talk-name=org.freedesktop.Flatpak",
+        "--filesystem=xdg-data/konsole:create"
     ],
     "modules": [
         {
