@@ -9,10 +9,10 @@
         "--device=dri",
         "--share=ipc",
         "--share=network",
-        "--socket=wayland",
         "--socket=fallback-x11",
-        "--talk-name=org.kde.kglobalaccel",
-        "--talk-name=org.freedesktop.Flatpak"
+        "--socket=wayland",
+        "--talk-name=org.freedesktop.Flatpak",
+        "--talk-name=org.kde.kglobalaccel"
     ],
     "modules": [
         {
