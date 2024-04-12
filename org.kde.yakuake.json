@@ -24,8 +24,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.1/src/konsole-24.02.1.tar.xz",
-                    "sha256": "c5a277db84a2f61751250b89c7f984dfdb7750d9ed5f68a4fae228d89ae72c85",
+                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/konsole-24.02.2.tar.xz",
+                    "sha256": "66467e336536d7df5c12bcad31a3ef0a2150c40351d87677047a40eae440ee2f",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -41,8 +41,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.02.1/src/yakuake-24.02.1.tar.xz",
-                    "sha256": "6824c41e538e5a8c52a613658bc76a6ba281fddb9eb9b4f701414533cd37419c",
+                    "url": "https://download.kde.org/stable/release-service/24.02.2/src/yakuake-24.02.2.tar.xz",
+                    "sha256": "e45ee0d05f22543fd4565e42e8cb20b5020862d7bba6f33e645007fc60d64659",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
