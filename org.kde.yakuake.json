@@ -27,8 +27,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/konsole-25.08.2.tar.xz",
-                    "sha256": "220fb44a02e5dd3110bc7d8a04f4d7c910bc99b5b1877a36befd06d1e65fe377",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/konsole-25.08.3.tar.xz",
+                    "sha256": "095a7ff10df3c70779b356fb3b5984062bbc698bbed966230e3dbccf6af36615",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -44,8 +44,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.08.2/src/yakuake-25.08.2.tar.xz",
-                    "sha256": "70befea6d9a068f6dcebbabf1eb058478f9d0048031dd4f80cf8dc087f0c451c",
+                    "url": "https://download.kde.org/stable/release-service/25.08.3/src/yakuake-25.08.3.tar.xz",
+                    "sha256": "d8d3f0ffecfd98f00c8618a7dcf5cf85ef745f704717df8198f6321d83451eec",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
