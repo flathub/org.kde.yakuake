@@ -17,6 +17,10 @@
         "--talk-name=org.kde.plasmashell",
         "--talk-name=org.kde.StatusNotifierWatcher"
     ],
+    "cleanup": [
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "konsole",
