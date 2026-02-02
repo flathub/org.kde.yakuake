@@ -56,36 +56,6 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/yakuake-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "file",
-                    "path": "16-apps-yakuake.png",
-                    "dest": "data/icons/"
-                },
-                {
-                    "type": "file",
-                    "path": "22-apps-yakuake.png",
-                    "dest": "data/icons/"
-                },
-                {
-                    "type": "file",
-                    "path": "32-apps-yakuake.png",
-                    "dest": "data/icons/"
-                },
-                {
-                    "type": "file",
-                    "path": "48-apps-yakuake.png",
-                    "dest": "data/icons/"
-                },
-                {
-                    "type": "file",
-                    "path": "128-apps-yakuake.png",
-                    "dest": "data/icons/"
-                },
-                {
-                    "type": "file",
-                    "path": "256-apps-yakuake.png",
-                    "dest": "data/icons/"
                 }
             ]
         }
