@@ -44,6 +44,26 @@
             ]
         },
         {
+            "name": "kwayland",
+            "buildsystem": "cmake-ninja",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma/6.7.6/kwayland-6.7.6.tar.xz",
+                    "sha256": "c812cd832941e80c6294332c4503efd3a559c689b3cbbfe31a47767e14c4e8cb",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8761,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma/$version/kwayland-$version.tar.xz",
+                        "versions": {
+                            "<": "6.8"
+                        }
+                    }
+                }
+            ]
+        },
+        {
             "name": "yakuake",
             "buildsystem": "cmake-ninja",
             "sources": [
