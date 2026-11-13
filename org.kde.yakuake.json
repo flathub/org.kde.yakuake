@@ -1,7 +1,7 @@
 {
     "id": "org.kde.yakuake",
     "runtime": "org.kde.Platform",
-    "runtime-version": "6.10",
+    "runtime-version": "6.11",
     "sdk": "org.kde.Sdk",
     "command": "yakuake",
     "rename-icon": "yakuake",
@@ -39,6 +39,23 @@
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/konsole-$version.tar.xz"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "kwayland",
+            "buildsystem": "cmake-ninja",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma/6.8.3/kwayland-6.8.3.tar.xz",
+                    "sha256": "00090254b86f1774e296b4dc7d69d073ee08efb75419c9b5d0955eeae0378a56",
+                    "x-checker-data": {
+                        "type": "anitya",
+                        "project-id": 8761,
+                        "stable-only": true,
+                        "url-template": "https://download.kde.org/stable/plasma/$version/kwayland-$version.tar.xz"
                     }
                 }
             ]
